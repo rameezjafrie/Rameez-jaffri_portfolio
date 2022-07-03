@@ -1,23 +1,23 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
-        course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
+        institution: 'University of Mumbai',
+        course: 'Bachelor of Engineering in Information Technology',
+        startYear: '2018',
+        endYear: '2022'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
+        institution: 'Smt. C.H.M. College of Arts, Commerce & Science',
+        course: 'Class XII Science',
+        startYear: '2016',
+        endYear: '2018'
     },
     {
         id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
-        startYear: '2019',
-        endYear: 'Present'
+        institution: 'P.M.M. Rotary School & Jr. College',
+        course: 'Class X SSC',
+        startYear: '2006',
+        endYear: '2016'
     },
 ]

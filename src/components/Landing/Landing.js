@@ -13,7 +13,8 @@ import {
     FaLinkedin,
     FaGithub,
     FaYoutube,
-    FaBlogger,
+    //FaBlogger,
+    FaHackerrank
 } from 'react-icons/fa';
 
 function Landing() {
@@ -120,7 +121,7 @@ function Landing() {
                                 target='_blank'
                                 rel='noreferrer'
                             >
-                                <FaYoutube
+                                <FaHackerrank
                                     className='landing--social'
                                     style={{ color: theme.secondary }}
                                     aria-label='YouTube'
@@ -133,11 +134,11 @@ function Landing() {
                                 target='_blank'
                                 rel='noreferrer'
                             >
-                                <FaBlogger
+                                {/* <FaBlogger
                                     className='landing--social'
                                     style={{ color: theme.secondary }}
                                     aria-label='Blogger'
-                                />
+                                /> */}
                             </a>
                         )}
                     </div>

@@ -13,17 +13,18 @@ function Main() {
 
             <Navbar />        
             <Landing />
-            <About />
-            <Education />
-            <Skills />
+            {/* <About /> */}
             <Experience />
-            <Projects />
-            <Achievement />
-            <Services />
+            <Education />
+            {/* <Skills /> */}
+            
+            {/* <Projects /> */}
+            {/* <Achievement /> */}
+            {/* <Services /> */}
             <Testimonials />
-            <Blog />
+            {/* <Blog /> */}
             <Contacts />
-            <Footer />
+            {/* <Footer /> */}
         </div>
     )
 }
