@@ -4,7 +4,7 @@ import CloseIcon from '@material-ui/icons/Close';
 import axios from 'axios';
 import isEmail from 'validator/lib/isEmail';
 import { makeStyles } from '@material-ui/core/styles';
-import { useRef } from 'react';
+// import { useRef } from 'react';
 import emailjs from '@emailjs/browser';
 
 
@@ -182,7 +182,7 @@ function Contacts() {
                                     Name
                                 </label>
                                 <input
-                                    placeholder='John Doe'
+                                    placeholder='Your Full Name'
                                     value={name}
                                     onChange={(e) => setName(e.target.value)}
                                     type='text'
@@ -198,7 +198,7 @@ function Contacts() {
                                     Email
                                 </label>
                                 <input
-                                    placeholder='John@doe.com'
+                                    placeholder='your-email-address@email.com'
                                     value={email}
                                     onChange={(e) => setEmail(e.target.value)}
                                     type='email'
