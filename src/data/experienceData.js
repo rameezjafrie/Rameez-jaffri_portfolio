@@ -1,24 +1,24 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Hexaware Technologies Ltd.',
-        jobtitle: 'Associate Software Engineer',
-        startYear: 'May 2022 ',
-        endYear: 'April 2023'
+        company: 'Bank Alhabib Limited.',
+        jobtitle: 'IT Operation and System Support',
+        startYear: 'Feb 2016 ',
+        endYear: 'Present'
     },
     {
         id: 2,
-        company: 'GLTB Infotech Pvt. Ltd',
-        jobtitle: 'Machine Learning Intern',
-        startYear: 'June 2021',
-        endYear: 'Aug 2021'
+        company: 'United Bank Limited.',
+        jobtitle: 'Branch Support Analyst',
+        startYear: 'March 2014',
+        endYear: 'Feb 2016'
     },
     {
         id: 3,
-        company: 'Trivia Softwares',
-        jobtitle: 'Software Development Intern',
-        startYear: 'June 2019',
-        endYear: 'Aug 2019'
+        company: 'United Bank Limited.',
+        jobtitle: 'Phone Banking Officer in Retail Banking',
+        startYear: 'Jan 2013',
+        endYear: 'March 2014'
     },
 
 ]
