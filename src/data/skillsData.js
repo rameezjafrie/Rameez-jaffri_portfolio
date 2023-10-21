@@ -7,16 +7,16 @@
     'Angular',
     'Photoshop',
     'Illustrator',
-    'Premiere Pro',
-    'Azure',
+    // 'Premiere Pro',
+    // 'Azure',
     'Bootstrap',
     'Java',
-    'Python',
+    // 'Python',
     'Git',
     'Canva',
     'MongoDB',
     'Firebase',
-    'MySQL',
+    // 'MySQL',
 
 ]
 
