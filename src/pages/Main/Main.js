@@ -19,10 +19,10 @@ function Main() {
             <Skills />
             
             {/* <Projects /> */}
-            <Achievement />
+            {/* <Achievement /> */}
             <Services />
-            <Testimonials />
-            <Blog />
+            {/* <Testimonials /> */}
+            {/* <Blog /> */}
             <Contacts />
             <Footer />
         </div>
