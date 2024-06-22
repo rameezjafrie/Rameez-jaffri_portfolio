@@ -7,21 +7,21 @@ import { FaInternetExplorer, FaArtstation, FaChalkboardTeacher, FaCodeBranch, Fa
  
 
 export const servicesData = [
-    {
-        id: 1,
-        title: 'MidJourney',
-        icon: <FaArtstation/>
-    },
+    // {
+    //     id: 1,
+    //     title: 'MidJourney',
+    //     icon: <FaArtstation/>
+    // },
     {
         id: 2,
         title: 'ChatGPT',
         icon: <FaOpencart /> 
     },
-    // {
-    //     id: 3,
-    //     title: 'Email Marketing',
-    //     icon: <AiOutlineMail />
-    // },
+    {
+        id: 3,
+        title: 'Email Marketing',
+        icon: <AiOutlineMail />
+    },
     {
         id: 4,
         title: 'Internet Research',
@@ -38,11 +38,11 @@ export const servicesData = [
         title: 'Web Design',
         icon: <BsCodeSlash />
     },
-    {
-        id: 7,
-        title: 'Full Stack Engineering',
-        icon: <FaCodeBranch />
-    },
+    // {
+    //     id: 7,
+    //     title: 'Full Stack Engineering',
+    //     icon: <FaCodeBranch />
+    // },
     // {
     //     id: 8,
     //     title: 'Pinterest Virtual Assistant',
@@ -53,11 +53,11 @@ export const servicesData = [
         title: 'Video Editing',
         icon: <FaVideo />
     },
-    // {
-    //     id: 10,
-    //     title: 'Data Entry', 
-    //     icon: <BsClipboardData />
-    // },
+    {
+        id: 10,
+        title: 'Data Entry', 
+        icon: <BsClipboardData />
+    },
     {
         id: 11,
         title: 'Ebook Writing',

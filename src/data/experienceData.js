@@ -10,15 +10,15 @@ export const experienceData = [
         id: 2,
         company: 'United Bank Limited.',
         jobtitle: 'Branch Support Analyst',
-        startYear: 'March 2014',
+        startYear: 'January 2013',
         endYear: 'Feb 2016'
     },
-    {
-        id: 3,
-        company: 'United Bank Limited.',
-        jobtitle: 'Phone Banking Officer in Retail Banking',
-        startYear: 'Jan 2013',
-        endYear: 'March 2014'
-    },
+    // {
+    //     id: 3,
+    //     company: 'United Bank Limited.',
+    //     jobtitle: 'Phone Banking Officer in Retail Banking',
+    //     startYear: 'Jan 2013',
+    //     endYear: 'March 2014'
+    // },
 
 ]
